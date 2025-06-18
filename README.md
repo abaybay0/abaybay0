@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abaybay0
+- 👋 Hi, I’m Annie
 - 👀 I’m interested in creating full-stack apps with killer UI/UX design.
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on pretty much anything
